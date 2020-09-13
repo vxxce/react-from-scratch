@@ -30,7 +30,7 @@ h1 {
 p {
   font-family: var(--body-font), Helvetica, sans-serif;
   font-size: 1.1rem;
-  line-height: 1.6rem;
+  line-height: 1.7rem;
 }
 
 object {
@@ -53,6 +53,6 @@ object {
   p {
     max-width: 550px;
     font-size: 1.7rem;
-    line-height: 2.1rem;
+    line-height: 2.4rem;
   }
 }
