@@ -12,3 +12,5 @@
 
 - Do I want to mix this project with Docker ed?
 
+- Maybe try... not Express or Koa? Maybe something from Pythonland. Or, hell, Java? PHP?
+
