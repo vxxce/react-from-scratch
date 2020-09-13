@@ -4,7 +4,7 @@
   "description": "Just refreshing my memory re: custom, manual setup and config for a react app. Using parcel instead of webpack. Still babel.",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel public/index.html",
+    "start": "parcel public/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
