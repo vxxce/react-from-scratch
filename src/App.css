@@ -1,0 +1,12 @@
+:root {
+  margin: 0;
+  padding: 0;
+  --primary-text-color: hsl(0, 0%, 13%);
+  --primary-bg-color: hsl(42, 43%, 91%);
+  --header-text-color: #253a1f;
+}
+
+.App {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px
+}
