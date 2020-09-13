@@ -1,15 +1,26 @@
 {
   "name": "react-indeed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just refreshing my memory re: custom, manual setup and config for a react app. Using parcel instead of webpack. Still babel.",
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxxce/react-from-scratch.git"
+  },
+  "keywords": [
+    "react",
+    "parcel",
+    "boilerplate"
+  ],
   "author": "Zachary Olpin",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vxxce/react-from-scratch/issues"
+  },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
     "@babel/core": "^7.11.6",
